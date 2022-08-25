@@ -1,5 +1,20 @@
-<img src="./assets/logo.png" alt="Logo do projeto" align="center">
+<!--
+*** Obrigado por estar vendo o meu README. Se você tiver alguma sugestão
+*** que possa melhorá-lo ainda mais dê um fork no repositório e crie uma OR
+*** ou abra uma Issue com a tag "sugestão".
+-->
 
-30 dias de CSS3 é um desafio que vou aceitar (e você também pode participar) a partir de 20 de Julho de 2020, que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de projetos
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://www.alura.com.br/">
+    <img src="https://7daysofcode.io/assets/img/background-7days.1647533642.svg" alt="Logo">
+  </a>
 
-Se você chegou agora e quer começar o desafio, fique a vontade, o desafio não tem data de inicio fixa, cada um faz os seus 30 dias, eu ficarei honrada com sua participação wink
+  <h3 align="center">7 Days Of Code</h3>
+</p>
+
+## Sobre o projeto
+
+7DaysOfCode é um desafio proposto pela [Alura](https://www.alura.com.br/), onde por 7 dias serei desafiado à experenciar um novo desafio relacionado a Data Science
+
+Se você chegou aqui fique à vontade para me dar dicas e/ou sugerir correções em meu código, afinal essa será o meu primeiro contato com desafios de dados.
